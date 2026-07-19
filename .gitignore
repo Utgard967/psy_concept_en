@@ -1,0 +1,23 @@
+# Временные файлы LaTeX
+*.aux
+*.bcf
+*.blg
+*.bbl
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.run.xml
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Временные файлы BibLaTeX
+*.bbl
+*.bcf
+*.blg
+
+# Папки
+_site/
+*.pdf
